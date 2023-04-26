@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8075ed4b-3160-413b-921a-51cd495424aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/restaurant/src/page-builder.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/src/counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant/javascript.svg" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/public/javascript.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/src/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682517441936</updated>
-      <workItem from="1682517443055" duration="1893000" />
+      <workItem from="1682517443055" duration="3706000" />
     </task>
     <servers />
   </component>

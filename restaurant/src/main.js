@@ -1,5 +1,11 @@
 import './style.scss'
-import {loadLandingPage} from "./page-builder.js";
+import {loadLandingPage} from "./landing-page-builder.js";
+import {loadNavBar} from "./navigation-builder.js";
+import {enableTabs} from "./controller.js";
 
-
+loadNavBar()
+enableTabs()
 loadLandingPage();
+
+
+

@@ -16,15 +16,14 @@
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 
   #app {
+    display: flex;
+    flex-direction: column;
     max-width: 1280px;
     margin: 0 auto;
-    padding: 2rem;
     text-align: center;
 
     h1 {
@@ -44,6 +43,47 @@ body {
 
     img {
       max-width: 100%;
+    }
+
+    .menu{
+      display: grid;
+      grid-template-rows: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+
+      .card{
+        img{
+          width: 450px;
+          height: 300px;
+        }
+      }
+    }
+
+  }
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+  .tab {
+    padding: 1rem 2rem;
+
+    &:hover {
+      background-color: darkgray;
+      transition: all 1s;
+    }
+  }
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  li{
+    span{
+      margin-left: 0.5rem;
     }
   }
 }

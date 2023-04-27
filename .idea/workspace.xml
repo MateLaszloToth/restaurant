@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8075ed4b-3160-413b-921a-51cd495424aa" name="Changes" comment="" />
+    <list default="true" id="8075ed4b-3160-413b-921a-51cd495424aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/restaurant/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/vite.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682517441936</updated>
       <workItem from="1682517443055" duration="3706000" />
-      <workItem from="1682580002725" duration="8024000" />
+      <workItem from="1682580002725" duration="8338000" />
     </task>
     <servers />
   </component>
